@@ -1,7 +1,7 @@
 #! /bin/bash
 # username.sh
 # Jason Bohlinger
-# Version 2.0
+# Version 3.0
 echo "Enter a username: "
 echo "Only lowercase letters, digits, and underscore."
 echo "The username must start with a lower case letter"
